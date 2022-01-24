@@ -3,11 +3,6 @@
 - Interfaces para gestionar/interactuar con tiendas adscritas por convenio, a través de sus dependientes, con el despacho por drones de sus productos a sus clientes.
 
 ## Pre-requisitos 📋
-Para iniciar sesión desde la aplicación de AlfaWeb pueden usar el siguiente usuario de prueba:
-```
-email: admin@gmail.com
-password: 123456
-```
 
 El sitio en Netlify es: https://affectionate-engelbart-cd321b.netlify.app/
 
