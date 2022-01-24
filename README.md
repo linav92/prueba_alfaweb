@@ -4,7 +4,7 @@
 
 ## Pre-requisitos 📋
 
-El sitio en Netlify es: https://affectionate-engelbart-cd321b.netlify.app/
+El sitio en Netlify es: https://gracious-lichterman-e34467.netlify.app/
 
 Para el correcto funcionamiento del proyecto debe de agregar el archivo config.js en la carpeta firebase
 
