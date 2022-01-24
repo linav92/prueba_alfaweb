@@ -1,7 +1,0 @@
-Prueba Lina Vallejo.
-
-Hosting URL: https://gracious-lichterman-e34467.netlify.app/
-correo: admin@gmail.com
-clave: 123456
-
-Link repositorio Github: https://github.com/linav92/prueba_alfaweb
